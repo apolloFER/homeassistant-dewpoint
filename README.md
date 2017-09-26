@@ -1,6 +1,6 @@
 # HomeAssistant Dewpoint Sensor
 
-Dewpoint sensor for HomeAssistant.
+Dewpoint sensor for Home Assistant - https://home-assistant.io/.
 
 To add a dew point sensor to your configuration, add the following template to your ```sensors``` section:
 
